@@ -1,0 +1,80 @@
+[
+{
+  "model": "webapp.guestbookreview",
+  "pk": 1,
+  "fields": {
+    "name": "Jane Kai",
+    "email": "Jorobekovt@gmail.com",
+    "text": "dsdfnnnjjljlksdfsdf",
+    "created_at": "2025-11-08T07:56:41.880Z",
+    "updated_at": "2025-11-08T07:56:41.880Z",
+    "status": "active"
+  }
+},
+{
+  "model": "webapp.guestbookreview",
+  "pk": 2,
+  "fields": {
+    "name": "amir kane",
+    "email": "Jorobekovt@gmail.com",
+    "text": "dsfsakjflkdsjflksjfls",
+    "created_at": "2025-11-08T07:57:06.207Z",
+    "updated_at": "2025-11-08T07:57:06.207Z",
+    "status": "active"
+  }
+},
+{
+  "model": "webapp.guestbookreview",
+  "pk": 3,
+  "fields": {
+    "name": "elena prava",
+    "email": "Jorobekovt@gmail.com",
+    "text": "savdsafdsfsa",
+    "created_at": "2025-11-08T07:57:33.890Z",
+    "updated_at": "2025-11-08T07:57:33.890Z",
+    "status": "active"
+  }
+},
+{
+  "model": "webapp.guestbookreview",
+  "pk": 4,
+  "fields": {
+    "name": "katya bergen",
+    "email": "Jorobekovt@gmail.com",
+    "text": "sfdsjafkljsdafnnmsdnfms",
+    "created_at": "2025-11-08T07:58:08.798Z",
+    "updated_at": "2025-11-08T07:58:08.799Z",
+    "status": "blocked"
+  }
+},
+{
+  "model": "webapp.guestbookreview",
+  "pk": 5,
+  "fields": {
+    "name": "talai murza",
+    "email": "Jorobekovt@gmail.com",
+    "text": "dsfjslkjdfkjsaldfjsal",
+    "created_at": "2025-11-08T07:58:35.602Z",
+    "updated_at": "2025-11-08T07:58:35.602Z",
+    "status": "blocked"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$2YG7FwzpdIUEHlTifRQgkE$0hdFtYmhhtaUl61cZaQlJfuM7aUafaOZb8vVGWYzICc=",
+    "last_login": "2025-11-08T06:38:18.198Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-11-08T06:37:21.738Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
