@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Удаление записи</h2>
+<p>Введите email для подтверждения:</p>
+
+<div class="col-md-4">
+    <form method="post">
+      {% csrf_token %}
+      <input type="email" name="email" class="form-control mb-3">
+      <button type="submit" class="btn btn-danger" name="confirm">Удалить</button>
+      <button type="submit" name="cancel" class="btn btn-secondary">Отмена</button>
+    </form>
+</div>
+{% endblock %}
